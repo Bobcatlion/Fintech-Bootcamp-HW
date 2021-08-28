@@ -4,7 +4,7 @@
 
 * Ripple
 * Founded in 2012
-* Founded by Chris Larson and Jed McCaleb
+* Founded by Chris Larson, Arthur Britto, and Jed McCaleb
 * Ryan Fugger conceived Ripple in 2004 after working on a local exchange trading system in Vancouver. The intent was to create a monetary system that was decentralized and could effectively empower individuals and communities to create their own money.  After discussions with McCaleb and long-standing members of the Ripple community, Fugger handed over the reins. In September 2012, Chris Larsen and Jed McCaleb co-founded the corporation OpenCoin. On September 26, 2013, OpenCoin officially changed its name to Ripple Labs, Inc.
 * Andreessen Horowitz, FF Angel LLC, Lightspeed Venture Partners, Pantera Capital, Vast Ventures, Bitcoin Opportunity Fund donated 2.5million in 2013
 
@@ -16,9 +16,9 @@
 
 ## Landscape:
 
-* Ripple is in the banking industry
-* X-Rapid, X-Via, ODL(On-Demand Liquidity)
-* SWIFT, Stellar Lumens, Stablecoins, Digital Fiat
+* Ripple is in the Banking/Fintech industry
+* Some innovations Ripple has brought on are X-Rapid, X-Via, ODL(On-Demand Liquidity). Overall, Blockchain and Cryptocurrency is a relatively new space but given its massive adoption over the past decade, this industry is expected exponentially over the next 10 years as we approach the next bitcoin halving.
+* Major competitors to Ripple in the blockchain space would be SWIFT, Stellar Lumens, Stablecoins, Digital Fiat
 
 ## Results:
 
@@ -35,3 +35,4 @@
 * https://www.investopedia.com/terms/r/ripple-cryptocurrency
 * https://itsblockchain.com/ripple-partners/
 * https://fortune.com/2021/07/29/ripple-xrp-sec-lawsuit-impact-on-crypto-industry/
+* https://www.cnbc.com/2021/05/25/ripple-disruptor-50.html

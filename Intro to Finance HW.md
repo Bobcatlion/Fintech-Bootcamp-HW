@@ -22,9 +22,13 @@
 
 ## Results:
 
-* Through a number of solutions, Ripple  aims to provide an efficient system for the direct transfer of money that settles in real-time, while being cheaper, more secure and more transparent than other transfer systems employed by traditional financial institutions.
+* Through a number of solutions, Ripple aims to provide an efficient system for the direct transfer of money that settles in real-time, while being cheaper, more secure and more transparent than other transfer systems employed by traditional financial institutions. As of 2021, Ripple offers a global payments platform for some 2 million users worldwide for the XRP token and its fully decentralized ledger
 * Ripple has been wildly successful in the global front working with banks and improving the handling of cross border remittance
 * Since its inception in 2012 successful with improving cross border remittances. In comparision with their competitors such Western Union and Moneygram; Ripple brings to clients an instant settlement solution by leveraging XRP. In 2019 Ripple partnered with Moneygram.
+
+## Recommendations:
+
+* If i were an advisor for Ripple, I would suggest Ripple make a larger social presence in the United States. Their lack of exposure does make sense given the current SEC lawsuit in the US however, planting seeds of growth during this lawsuit will surely help expediate mainstream adoption once this case is settled. Ripple is an industry leader and has worked closely with the SEC and US lobbyist for their tenure; they understand the lay of the land. Unlike other crypto companies, Ripple doesn't advertise to mainstream media an focuses solely on exposure to market manipulators and banks. Seeing the wild success of companies such as crypto.com and their UFC deal, i would like to see Ripple do something similiar perhaps partnering up with a Venmo or Zelle.
 
 ## Resources:
 * https://ripple.com/company/

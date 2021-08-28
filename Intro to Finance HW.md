@@ -34,4 +34,4 @@
 * https://ripple.com/company/
 * https://www.investopedia.com/terms/r/ripple-cryptocurrency
 * https://itsblockchain.com/ripple-partners/
-* 
+* https://fortune.com/2021/07/29/ripple-xrp-sec-lawsuit-impact-on-crypto-industry/
